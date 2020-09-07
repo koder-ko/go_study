@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5303cfae-3634-4b64-8667-153e46cd7538" name="Default Changelist" comment="" />
+    <list default="true" id="5303cfae-3634-4b64-8667-153e46cd7538" name="Default Changelist" comment="[2020-09-07] make packages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,18 +18,28 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hBWZiZCyTz2yESLUkdHrMH8q84" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\book0\go\src\go_study\chapter1_begin" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build fmt_use.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -48,15 +61,28 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[2020-09-07] fmt_use.go add" />
+    <MESSAGE value="[2020-09-07] make packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2020-09-07] make packages" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="519" y="239" key="Github.ShareDialog" timestamp="1599486157990">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="519" y="239" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1599486157990" />
+    <state x="470" y="46" key="Github.UntrackedFilesDialog" timestamp="1599486172920">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="470" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1599486172920" />
     <state x="151" y="0" key="SettingsEditor" timestamp="1599485576298">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="151" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599485576298" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599486441626">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599486441626" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1599485797531">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
